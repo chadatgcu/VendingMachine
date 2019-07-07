@@ -1,0 +1,15 @@
+Drink,CocaCola,1.5,2,34534,200,12,TRUE,Soda,,,,
+Drink,Dasani,1,1,3464237,0,12,FALSE,Water,,,,
+Drink,Pepsi,1.5,6,25252,190,12,TRUE,Soda,,,,
+Drink,Sprite,1.25,4,298483,120,12,TRUE,Soda,,,,
+Candy,Milky Way,1.25,10,123456788,450,1,TRUE,TRUE,FALSE,TRUE,TRUE,Candy Bar
+Candy,Twix,1,10,123456789,500,1,TRUE,TRUE,FALSE,TRUE,FALSE,Candy Bar
+Candy,Snickers,1,2,1234,475,1,TRUE, true, false, false, true, Candy Bar
+Candy,M&M's,1.75,8,1232,375,1,TRUE,TRUE,FALSE,FALSE,FALSE,Candy Bar
+Chips,Cheez-Its,2.25,6,436436,725,1,TRUE,Cheddar Cheese,TRUE, false,crackers,
+Chips,Fritos,2.1,4,34636,675,1,TRUE,Original Corn Chips,TRUE,FALSE,Corn Chips,
+Chips,Lays,2.5,7,3463643,700,1,TRUE,Classic Potato,FALSE,TRUE,Potato chips,
+Chips,Doritos,2.5,2,1234567,600,1,TRUE,Nacho Cheese,TRUE,FALSE, Chips,
+Gum,Big Red,0.35,4,2543634,5,1,TRUE,Cinnamon,TRUE,Gum,,
+Gum,Orbit,0.5,6,23523432,10,1,TRUE,Peppermint,TRUE,Gum,,
+Gum,Orbit,0.5,2,23523432,10,1,TRUE,Peppermint,TRUE,Gum,,
